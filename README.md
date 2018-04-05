@@ -1,11 +1,27 @@
 # lpic_1-101
-Материалы по подготовке к экзамену 101 первой ступени сертификации.
+### EN
+Workbooks for studying Linux by LPIC-1 exam 101 matherials.
+**./en**
+&nbsp;&nbsp;&nbsp;**|_ docx/** - syllabuses for those who prefer Word
+&nbsp;&nbsp;&nbsp;**|_ homework/** - tasks for self educating
+&nbsp;&nbsp;&nbsp;**|_\*.md** - syllabuses in markdown
 
-Материалы: это конспект и ДЗ.
+I do appreciate all useful сcorrections and additions. Feel free to create merge requests.
 
-Так как мне периодически приходится вносить изменения в текст в связи с обновлением дистрибутивов ОС, да и с достаточным количеством правок, то я переехал на git.
-Кроме того, вы сможете добавлять сюда свои комменты и отправлять мне на мерж в мастер-ветку.
+To those who are not used to git:
+1) Install https://www.gitkraken.com/
+2) In the app do File-Clone Repo
+3) Specify what to clone and where to (in this case you clone https://github.com/ksemaev/lpic_1-101)
+4) Refresh periodically with Pull to get new fixes.
 
+### RU
+Материалы для изучения Linux по плану подготовки к экзамену 101 первой ступени сертификации.
+**./ru**
+&nbsp;&nbsp;&nbsp;**|_ docx/** - конспекты для тех, кому удобно в ворде
+&nbsp;&nbsp;&nbsp;**|_ homework/** - задания для самостоятельного изучения
+&nbsp;&nbsp;&nbsp;**|_\*.md** - конспекты в markdown
+
+Приветствую любые полезные дополнения и исправления. Делайте merge requests.
 
 Для тех кто не знаком с гитом:
 1) Ставите https://www.gitkraken.com/
